@@ -1,4 +1,4 @@
-# ai-agents
+AI-Agents
 AI agents are AI systems that don't just answer questions—they can think through a task, make decisions, use tools, and complete multi-step work with minimal human intervention.
 
 Think of it like this
