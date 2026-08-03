@@ -97,7 +97,6 @@ Send an email
 Generate a PDF
 Commit code
 Deploy a website
-Create a calendar event
 How an AI Agent Works
 User Goal
      │
