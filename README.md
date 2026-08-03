@@ -9,7 +9,7 @@ For example:
 
 LLM
 
-"Write an email."
+"Write an email. "
 
 It writes the email.
 
@@ -222,7 +222,6 @@ AI Email Assistant
 AI Customer Support Bot
 AI Coding Assistant
 AI Meeting Notes Generator
-AI Financial Advisor
 AI Document Q&A System
 Multi-Agent Software Development Team
 
