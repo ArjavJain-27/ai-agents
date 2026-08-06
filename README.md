@@ -184,8 +184,6 @@ LlamaIndex – Connect AI agents to documents and knowledge bases.
 OpenAI Agents SDK – Build tool-using agents with OpenAI models.
 Real-World Applications
 Customer support
-Coding assistants
-Resume screening
 Email automation
 Personal assistants
 Research assistants
