@@ -183,7 +183,6 @@ AutoGen – Build conversations between multiple AI agents.
 LlamaIndex – Connect AI agents to documents and knowledge bases.
 OpenAI Agents SDK – Build tool-using agents with OpenAI models.
 Real-World Applications
-Customer support
 Email automation
 Personal assistants
 Research assistants
@@ -200,7 +199,6 @@ Databases: PostgreSQL, SQLite
 Backend: FastAPI
 Frontend: React or Next.js
 Deployment: Docker, Render, Railway, AWS
-Learning Roadmap
 Learn Python well.
 Understand how LLMs work.
 Learn prompt engineering.
@@ -215,7 +213,6 @@ Projects to Build
 AI Research Assistant
 AI Resume Analyzer
 AI Travel Planner
-AI Email Assistant
 AI Customer Support Bot
 AI Coding Assistant
 AI Meeting Notes Generator
