@@ -204,7 +204,6 @@ Build apps using LLM APIs.
 Learn Retrieval-Augmented Generation (RAG).
 Learn function/tool calling.
 Learn vector databases.
-Build single-agent systems.
 Learn LangGraph or CrewAI.
 Build multi-agent projects.
 Projects to Build
