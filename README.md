@@ -2,6 +2,7 @@ AI-Agents
 AI agents are AI systems that don't just answer questions—they can think through a task, make decisions, use tools, and complete multi-step work with minimal human intervention.
 
 Core Components of AI AgentsBrain (LLM): Processes user prompts, decodes context, and orchestrates logical steps.Planning & Reasoning: Breaks a large goal into smaller tasks, critiques its own output, and iterates.Tools: Uses APIs, code execution, or web search to interact with external apps.Memory: Tracks short-term conversation states and long-term historical context.
+Types of AI AgentsReflex Agents: Act directly using simple, predefined condition-action rules without memory.Goal-Based Agents: Plan ahead across multiple steps to reach a specific long-term objective.Utility-Based Agents: Evaluate different outcomes to pick the most optimal or beneficial path.Learning Agents: Ingest new feedback over time to improve future performance.
 
 Think of it like this
 Chatbot (LLM): You ask, it answers.
