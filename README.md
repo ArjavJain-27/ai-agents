@@ -182,7 +182,6 @@ Popular Frameworks
 LangChain – Build AI applications with tools, memory, and workflows.
 LangGraph – Create reliable, stateful AI agents with complex workflows.
 CrewAI – Coordinate multiple AI agents with different roles.
-AutoGen – Build conversations between multiple AI agents.
 LlamaIndex – Connect AI agents to documents and knowledge bases.
 OpenAI Agents SDK – Build tool-using agents with OpenAI models.
 Real-World Applications
