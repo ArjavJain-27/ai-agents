@@ -199,7 +199,6 @@ Databases: PostgreSQL, SQLite
 Backend: FastAPI
 Frontend: React or Next.js
 Deployment: Docker, Render, Railway, AWS
-Learn Python well.
 Understand how LLMs work.
 Learn prompt engineering.
 Build apps using LLM APIs.
