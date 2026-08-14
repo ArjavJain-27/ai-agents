@@ -210,10 +210,7 @@ Build multi-agent projects.
 Projects to Build
 AI Research Assistant
 AI Resume Analyzer
-AI Travel Planner
-AI Customer Support Bot
-AI Coding Assistant
-AI Meeting Notes Generator
+
 AI Document Q&A System
 Multi-Agent Software Development Team
 
