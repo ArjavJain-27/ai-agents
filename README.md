@@ -198,7 +198,6 @@ Databases: PostgreSQL, SQLite
 Backend: FastAPI
 Frontend: React or Next.js
 Deployment: Docker, Render, Railway, AWS
-Understand how LLMs work.
 Learn prompt engineering.
 Build apps using LLM APIs.
 Learn Retrieval-Augmented Generation (RAG).
