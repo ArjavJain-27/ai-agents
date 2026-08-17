@@ -84,8 +84,6 @@ Calculator
 Python
 GitHub
 Gmail
-Calendar
-Database
 Weather APIs
 Maps
 Payment APIs
