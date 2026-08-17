@@ -131,7 +131,6 @@ The agent might:
 Search shopping websites.
 Collect laptop prices.
 Compare specifications.
-Rank the best options.
 Return recommendations.
 
 A normal chatbot would only provide general suggestions.
