@@ -1,6 +1,8 @@
 AI-Agents
 AI agents are AI systems that don't just answer questions—they can think through a task, make decisions, use tools, and complete multi-step work with minimal human intervention.
 
+How It WorksObserve: The agent takes your task and reviews the current environment or data.Plan: The model creates a step-by-step strategy to reach the goal.Act: The system calls the required tools or APIs to execute the plan.Reflect: It checks the output, fixes errors, and repeats the loop until finished
+
 Core Components of AI AgentsBrain (LLM): Processes user prompts, decodes context, and orchestrates logical steps.Planning & Reasoning: Breaks a large goal into smaller tasks, critiques its own output, and iterates.Tools: Uses APIs, code execution, or web search to interact with external apps.Memory: Tracks short-term conversation states and long-term historical context.
 
 Think of it like this
