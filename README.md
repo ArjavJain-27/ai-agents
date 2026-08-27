@@ -3,7 +3,6 @@ AI agents are AI systems that don't just answer questions—they can think throu
 
 Core Components of AI AgentsBrain (LLM): Processes user prompts, decodes context, and orchestrates logical steps.Planning & Reasoning: Breaks a large goal into smaller tasks, critiques its own output, and iterates.Tools: Uses APIs, code execution, or web search to interact with external apps.Memory: Tracks short-term conversation states and long-term historical context.
 
-I agents use feedback mechanisms, such as other AI agents and human-in-the-loop (HITL) to improve the accuracy of their responses. Let’s return to our previous surfing example to highlight this process. After the agent forms its response to the user, it stores the learned information along with the user’s feedback to improve performance and adjust to user preferences for future goals.
 
 If other agents were used to reach the goal, their feedback might also be used. Multi-agent feedback can be especially useful in minimizing the time that human users spend providing direction. However, users can also provide feedback throughout the agent’s actions and internal reasoning to better align the results with the intended goal.2
 
